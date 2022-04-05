@@ -6,6 +6,8 @@
 
 All logging that already exists in 7 Days to Die will be automatically forwarded to Papertrail for recording and viewing to help track down bugs, monitor player activity, or provide support to users.
 
+![Papertrail Screenshot](Media/papertrail-social-image.jpg)
+
 ## Setup
 
 See the [project readme](PapertrailFor7DTD/README.md), which will also be included within the modlet download.
